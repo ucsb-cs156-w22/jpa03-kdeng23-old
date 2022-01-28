@@ -6,7 +6,7 @@ On Heroku: https://jpa03-kdeng23.herokuapp.com/
 
 On Codecov: https://app.codecov.io/gh/ucsb-cs156-w22/jpa03-kdeng23
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-kdeng23/branch/master/graph/badge.svg?token=S6CRYBnew4)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-kdeng23)
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-kdeng23/branch/main/graph/badge.svg?token=S6CRYBnew4)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-kdeng23)
 
 ## Integrations
 
